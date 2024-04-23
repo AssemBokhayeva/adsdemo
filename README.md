@@ -1,15 +1,12 @@
-Welcome to your new dbt project!
+Hi, this is repo for test project for Growth.shop
 
-### Using the starter project
+### Steps which help me to understand task and create my first project in Bigquery/dbt Cloud 
 
-Try running the following commands:
-- dbt run
-- dbt test
-
+- Main task is create some model using ETL process where we can extract and upload needed fields for dashboard
+- To understand main flow i watch video in resources, cause i prefer video than text which is provided (maybe will helpful for future)
+- Follow the allgorithm in the video and create all steps
+- By my own write SQL command to extract data
+- create dashboard
 
 ### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [dbt community](https://getdbt.com/community) to learn from other analytics engineers
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+- Video https://www.youtube.com/watch?v=_C_pYeuF6_s
