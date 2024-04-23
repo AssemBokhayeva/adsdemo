@@ -12,4 +12,6 @@ Hi, this is repo for test project for Growth.shop
 - Video https://www.youtube.com/watch?v=_C_pYeuF6_s
 - Dashboard https://lookerstudio.google.com/s/inGn4ua6IXM
 - ![image](https://github.com/AssemBokhayeva/adsdemo/assets/167035002/82a8eced-ce05-4bfa-a2ca-171f09c0544c)
+- ![image](https://github.com/AssemBokhayeva/adsdemo/assets/167035002/e4e4e65d-fac9-485b-abdc-a3734ad649b1)
+
 
