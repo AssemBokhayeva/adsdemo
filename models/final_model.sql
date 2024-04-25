@@ -24,7 +24,9 @@ group by spend,purchase,
        impressions,
        clicks, channel,
        date, campaign_id
+
 union all
+
 select spend,
       conversions as conv,
       impressions as imps, 
