@@ -2,7 +2,7 @@ Hi, this is repo for test project for Growth.shop
 
 ### Steps which help me to understand task and create my first project in Bigquery/dbt Cloud 
 
-- Main task is create some model using ETL process where we can extract and upload needed fields for dashboard
+- Main task is create some model using ELT process where we can extract and upload needed fields for dashboard
 - To understand main flow i watch video in resources, cause i prefer video than text which is provided (maybe will helpful for future)
 - Follow the allgorithm in the video and create all steps
 - By my own write SQL command to extract data please look at models file final_model.sql
